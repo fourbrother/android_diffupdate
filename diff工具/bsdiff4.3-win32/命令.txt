@@ -1,0 +1,2 @@
+bsdiff.exe oldfile newfile patchfile  
+bspatch.exe oldfile newfile patchfile  
